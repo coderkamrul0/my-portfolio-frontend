@@ -21,7 +21,7 @@ const Projects = () => {
         </div>
 
         <div>
-          <div className="md:flex justify-between gap-20">
+          <div className="md:grid grid-cols-3  gap-20">
             {projects.map((item) => (
               <div className="bg-[#1E293B] border border-[#38BDF8]  rounded-md mb-5 transform transition duration-500 hover:scale-110  p-2">
                 <img src={item.image} className="" alt="" />

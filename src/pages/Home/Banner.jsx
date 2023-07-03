@@ -2,7 +2,7 @@ import React from "react";
 
 const Banner = () => {
   const handleDownloadResume = () => {
-    const resumeUrl = "../../../public/KAMRUL-HASAN-RESUME.pdf";
+    const resumeUrl = "KAMRUL-HASAN-RESUME.pdf";
     const link = document.createElement("a");
     link.href = resumeUrl;
     link.download = "KAMRUL-HASAN-RESUME.pdf";

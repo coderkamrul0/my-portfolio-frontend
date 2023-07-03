@@ -22,5 +22,21 @@
       "clientCodeLink": "https://github.com/coderkamrul0/helium-recipe-client",
       "liveLink": "https://chef-hunter-f9357.web.app/",
       "image": "https://i.ibb.co/WyHjGsM/Screenshot-6.png"
+    },
+    {
+      "name": "Nutrient - E-commerce Landing Page",
+      "technology": ["React JS", "Tailwind"],
+      "serverCodeLink": "",
+      "clientCodeLink": "https://github.com/coderkamrul0/nutrient-landing-page",
+      "liveLink": "https://nutrient-food.netlify.app/",
+      "image": "https://i.ibb.co/Zzjy5sM/Screenshot-2.png"
+    },
+    {
+      "name": "Axies - NFT Landing Page",
+      "technology": ["React JS", "Tailwind", "Swiper JS"],
+      "serverCodeLink": "",
+      "clientCodeLink": "https://github.com/coderkamrul0/axies-nft-gaming",
+      "liveLink": "https://axies-nft-gaming.netlify.app/",
+      "image": "https://i.ibb.co/KzPMS7f/Screenshot-3.png"
     }
   ]
