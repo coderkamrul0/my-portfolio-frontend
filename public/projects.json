@@ -2,8 +2,8 @@
     {
       "name": "Music Universe",
       "technology": ["React JS", "Node JS", "MongoDb", "Express JS", "Tailwind", "Firebase"],
-      "serverCodeLink": "https://github.com/coderkamrul0",
-      "clientCodeLink": "https://github.com/coderkamrul0",
+      "serverCodeLink": "https://github.com/coderkamrul0/music-school-server",
+      "clientCodeLink": "https://github.com/coderkamrul0/music-school-client",
       "liveLink": "https://summer-school-f942c.web.app/",
       "image": "https://i.ibb.co/PFQqS6v/Screenshot-4.png"
     },
@@ -27,7 +27,8 @@
       "name": "Nutrient - E-commerce Landing Page",
       "technology": ["React JS", "Tailwind"],
       "serverCodeLink": "",
-      "clientCodeLink": "https://github.com/coderkamrul0/nutrient-landing-page",
+      "clientCodeLink": "",
+      "codeLink": "https://github.com/coderkamrul0/nutrient-landing-page",
       "liveLink": "https://nutrient-food.netlify.app/",
       "image": "https://i.ibb.co/Zzjy5sM/Screenshot-2.png"
     },
@@ -35,7 +36,8 @@
       "name": "Axies - NFT Landing Page",
       "technology": ["React JS", "Tailwind", "Swiper JS"],
       "serverCodeLink": "",
-      "clientCodeLink": "https://github.com/coderkamrul0/axies-nft-gaming",
+      "clientCodeLink": "",
+      "codeLink": "https://github.com/coderkamrul0/axies-nft-gaming",
       "liveLink": "https://axies-nft-gaming.netlify.app/",
       "image": "https://i.ibb.co/KzPMS7f/Screenshot-3.png"
     }
